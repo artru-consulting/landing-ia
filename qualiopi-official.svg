@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 190" role="img" aria-label="Qualiopi — processus certifié — République Française">
+  <rect width="620" height="190" fill="#fff"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="36" y="67" font-size="56" font-weight="700" letter-spacing="-2" fill="#202b78">Qualiopi</text>
+    <g transform="translate(404 14)">
+      <path d="M0 0h33l35 34-35 34H0l34-34z" fill="#202b78"/>
+      <path d="M0 34h34L0 68z" fill="#e30613"/>
+      <path d="M68 0h33l35 34-35 34H68l34-34z" fill="#e30613"/>
+      <path d="M68 34h34L68 68z" fill="#202b78"/>
+    </g>
+    <text x="38" y="111" font-size="30" font-weight="400" letter-spacing="1" fill="#202b78">processus certifié</text>
+    <g transform="translate(38 135)">
+      <rect width="34" height="19" fill="#202b78"/>
+      <path d="M17 0h17v19H17z" fill="#fff" opacity=".9"/>
+      <rect x="34" width="34" height="19" fill="#e30613"/>
+      <path d="M14 3c3 1 5 3 6 6-2 0-3 2-3 4-2-1-4-3-5-5-2 0-4-1-5-3 2-1 4-2 7-2z" fill="#fff"/>
+      <text x="79" y="17" font-size="23" font-weight="700" letter-spacing=".6" fill="#111">RÉPUBLIQUE FRANÇAISE</text>
+    </g>
+  </g>
+</svg>
