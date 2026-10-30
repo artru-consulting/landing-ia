@@ -1,0 +1,19 @@
+# PACk IA PME — Artru Consulting
+
+> Offre IA pour PME de 10 à 250 salariés : audit métier par métier, formation certifiée Qualiopi, agents IA hébergés en France. Lyon et Auvergne-Rhône-Alpes. Mise à jour : 2026-10-30.
+
+## Offre et prix (HT)
+- PACk Audit (4 semaines) : 450 € HT par métier. Une fiche par métier, une synthèse direction, une feuille de route à 90 jours.
+- PACk Formation (2 jours (14 h)) : 1 900 € HT par jour. Des cas d’usage priorisés, une bibliothèque de prompts, un plan d’action.
+- PACk Agents (4 à 6 semaines) : Installation à partir de 1 600 € HT, puis à partir de 139 € HT par mois. Un agent installé dans vos outils, hébergé en France et maintenu.
+
+## Points importants
+- Certification Qualiopi n° 25FOR01091.2 pour les actions de formation uniquement. Déclaration d’activité n° 84 69 25063 69.
+- L’audit et les agents ne sont pas finançables par les OPCO.
+- Aucun retour sur investissement garanti : indicateurs de départ et objectif de mesure à 90 jours écrits au devis.
+
+## Pages
+- [Fiche factuelle](https://artru-consulting.github.io/landing-ia/references-et-sources/)
+- [Tarifs](https://artru-consulting.github.io/landing-ia/tarifs/)
+- [À propos de Pierre Artru](https://artru-consulting.github.io/landing-ia/a-propos/)
+- [Questions fréquentes](https://artru-consulting.github.io/landing-ia/faq/)
