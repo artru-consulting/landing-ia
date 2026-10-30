@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /b/
+Sitemap: https://artru-consulting.github.io/landing-ia/sitemap.xml
